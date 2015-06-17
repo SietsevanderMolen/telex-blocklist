@@ -1,0 +1,9 @@
+{
+    "name": "Blocklist",
+    "description": "block users from using the bot",
+    "version": "1.0",
+    "default_enable": ["blocklist"],
+    "homepage": "https://github.com/sietsevandermolen/telex-blocklist",
+    "repo": "https://github.com/sietsevandermolen/telex-blocklist.git",
+    "branch": "master"
+}

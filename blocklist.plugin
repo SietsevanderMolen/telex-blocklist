@@ -1,0 +1,9 @@
+[Core]
+Name = Blocklist
+Module = blocklist
+
+[Documentation]
+Author = Sietse van der Molen
+Version = 1.0
+Website = https://github.com/sietsevandermolen/telex-blocklist
+Description = block users from using bot
